@@ -1,0 +1,17 @@
+Installed KSP-CKAN mod manager after having read kindle book "The Kerbal Players Guide" during vacation
+
+Using Mods:
+    KSP Engineer Redux (didnt want mechjob, cause didnt want to automate.)
+    RemoteTech (If i cant due RF, what can I do...)
+    KRPC (Kerbal space program remote protocol client...)
+    SCANSat (RADAR ALTIMETER)
+    AGExt (action groups extended)
+    remote tech missions
+    scan sat missions
+    other cruft (Kerbal Alarm Clock, Contract Configurator, Module Manager)
+
+Looking to use sqrt range mode for remote tech, etc.
+
+Did some digging, i think im crashing on startup due to using KSP 1.3 from steam (seems to be mostly a language pack - i dont care). Trying to move installed dir to 1.2.2 to get mods to run. THANKS OBAMA. Need to disable auto update.
+
+
